@@ -16,5 +16,5 @@
     "url": "https://github.com/themyth92/javascript-state-machine-typings/issues"
   },
   "homepage": "https://github.com/themyth92/javascript-state-machine-typings#readme",
-  "types": "index.d.ts",
+  "types": "index.d.ts"
 }
